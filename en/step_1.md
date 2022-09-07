@@ -9,7 +9,7 @@ Add project description here. What will learners be making? Broadly what skills 
 
 </h3>
 
-<div class="c-project-panel__content js-project-panel--initialise-swiper u-hidden">
+<div class="c-project-panel__content js-project-panel--initialise-swiper">
 <div class="c-project-panel__swiper">
 <div class="c-project-panel__swiper-wrapper">
 <div class="c-project-panel__swiper-slide">
