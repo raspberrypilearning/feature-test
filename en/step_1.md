@@ -37,11 +37,13 @@ Add project description here. What will learners be making? Broadly what skills 
 </div>
 </div>
 
-<div class="c-project-panel__swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="c-project-panel__swiper-bullet c-project-panel__swiper-bullet--active" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="c-project-panel__swiper-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="c-project-panel__swiper-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
+<div class="c-project-panel__swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="c-project-panel__swiper-bullet c-project-panel__swiper-bullet--active" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="c-project-panel__swiper-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="c-project-panel__swiper-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span>
+</div>
 
 <div class="c-project-panel__swiper-button c-project-panel__swiper-button--next" aria-disabled="false" tabindex="0" role="button" aria-label="Next slide"></div>
 <div class="c-project-panel__swiper-button c-project-panel__swiper-button--prev c-project-panel__swiper-button--disabled" aria-disabled="true" tabindex="0" role="button" aria-label="Previous slide"></div>
-<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+</div>
 </div>
 </div>
 
