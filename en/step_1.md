@@ -1,3 +1,10 @@
+<div>
+<Helmet>
+<title>My test project</title>
+<meta name='description' content='Test project for trying things out.' />
+</Helmet>
+</div>
+
 ## Introduction
 
 Add project description here. What will learners be making? Broadly what skills will they be learning?
