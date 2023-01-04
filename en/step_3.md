@@ -8,7 +8,7 @@ If you want to have more fun exploring Scratch, then you could try out any of [t
 
 <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
 <div>
-<a-scene style="width:500px; height:500px;" embedded>  
+<a-scene width="500" height="500" embedded>  
 <a-sphere src="https://cdn.glitch.global/37fefce6-2707-4fb7-82c9-ebd28846b6f3/waves.png?v=1672838452919" animation="property: rotation; to: 0 360 0 360; loop: true; dur: 3000" position="-3 2 -10" radius="1"></a-sphere>
 <a-sphere src="https://cdn.glitch.global/37fefce6-2707-4fb7-82c9-ebd28846b6f3/waves.png?v=1672838452919" animation="property: rotation; to: 0 360 0 360; loop: true; dur: 3000" position="0 2 -10" radius="1"></a-sphere>
 <a-sphere src="https://cdn.glitch.global/37fefce6-2707-4fb7-82c9-ebd28846b6f3/waves.png?v=1672838452919" animation="property: rotation; to: 0 360 0 360; loop: true; dur: 3000" position="3 2 -10" radius="1"></a-sphere>
