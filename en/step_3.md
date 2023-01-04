@@ -7,8 +7,14 @@ If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspb
 If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
 <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+<style>
+  .aframebox {
+height: 400px;
+width: 500px;
+}
+</style>
 <div>
-<a-scene width="500" height="500" embedded>  
+<a-scene embedded>  
 <a-sphere src="https://cdn.glitch.global/37fefce6-2707-4fb7-82c9-ebd28846b6f3/waves.png?v=1672838452919" animation="property: rotation; to: 0 360 0 360; loop: true; dur: 3000" position="-3 2 -10" radius="1"></a-sphere>
 <a-sphere src="https://cdn.glitch.global/37fefce6-2707-4fb7-82c9-ebd28846b6f3/waves.png?v=1672838452919" animation="property: rotation; to: 0 360 0 360; loop: true; dur: 3000" position="0 2 -10" radius="1"></a-sphere>
 <a-sphere src="https://cdn.glitch.global/37fefce6-2707-4fb7-82c9-ebd28846b6f3/waves.png?v=1672838452919" animation="property: rotation; to: 0 360 0 360; loop: true; dur: 3000" position="3 2 -10" radius="1"></a-sphere>
