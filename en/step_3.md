@@ -23,4 +23,4 @@ width: 500px;
 </a-scene>
 </div>
 
-![car](images/Groupe-1796.svg_
+![cat](images/Groupe-1796.svg)
